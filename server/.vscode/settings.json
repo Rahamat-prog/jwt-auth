@@ -1,0 +1,8 @@
+{
+    "editor.quickSuggestionsDelay": 50,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    }
+}
